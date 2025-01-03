@@ -1,14 +1,11 @@
-# Data_Retrieval
-A simple web application that demonstrates how to save and retrieve text using the browser's local storage. This project is to understand the concept of client-side storage and JavaScript event handling.
 
-Here’s a **README.md** file you can use for your GitHub repository:
+# **Data Retrieval App**
+A simple web application that demonstrates how to save and retrieve text using the browser's local storage. This project is to understand the concept of client-side storage and JavaScript event handling.
 
 ---
 
-# **Data Retrieval App**
-
-A simple web application that demonstrates how to save and retrieve text using the browser's local storage. This app is a beginner-friendly project to understand client-side storage and JavaScript event handling.
-
+## **Live Demo**
+Try the app live here: 
 ---
 
 ## **Features**
